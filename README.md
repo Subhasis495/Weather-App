@@ -1,36 +1,60 @@
-🌦 Weather App
-A clean and responsive weather application built with HTML, CSS, and JavaScript that displays real-time weather information using the Weatherstack API.
+🌤 Weather App
 
-🚀 Features
+A simple weather application built with HTML, CSS, and JavaScript that shows real-time weather using the Weatherstack API.
+
+✨ Features
+
 🔍 Search weather by city name
-🌈 Dynamic background 
-🖼 Weather icons using animated GIFs
-💡 Helpful weather tips displayed
-📱 Fully responsive and lightweight
 
-🛠 Technologies Used
+🌄 Dynamic background 
+
+🖼 Weather icons using animated GIFs
+
+💡 Smart weather tips (carry umbrella, sunglasses, etc.)
+
+📱 Clean and responsive UI
+
+🚀 Demo
+
+(Add GitHub Pages link or Screenshot here)
+
+🛠 Tech Stack
+
 HTML5
+
 CSS3
-Vanilla JavaScript (ES6)
+
+Vanilla JavaScript
+
 Weatherstack API
 
-📥 How to Set Up Locally
-Clone this repository:
-git clone https://github.com/your-username/your-repo-name.git
-Get a Free API Key:
-Sign up at Weatherstack and get your free API key.
-Add Your API Key:
+🔧 Installation & Setup
+
+Clone the repo
+
+git clone https://github.com/your-username/weather-app.git
+cd weather-app
+
+Get your free API Key from Weatherstack
+
 Open script.js and replace:
+
 const accessKey = "YOUR_ACCESS_KEY";
-with your actual Weatherstack API key.
-Open the App:
-Double-click index.html or open it in your browser.
 
+➔ with your actual key.
 
+Run the App
 
-📸 Screenshots
-screenshot.png
+Open index.html in your browser.
+
+⚠ Important Notes
+
+Never upload your real API key to public repositories.
+
+Keep the placeholder or use .env in production projects.
 
 📄 License
-This project is open-source and free to use for educational and personal projects.
 
+Free to use for personal & educational projects.
+
+🔥 Made with ❤️ by Subhasis Dhara
