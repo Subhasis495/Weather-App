@@ -16,7 +16,7 @@ A simple and elegant weather application built using **HTML**, **CSS**, and **Va
 
 ## 📸 Preview
 
-![Weather App Screenshot](assets/AppScreenshot.jpg)  
+![Weather App Screenshot](AppScreenshot.jpg)  
 
 ---
 
