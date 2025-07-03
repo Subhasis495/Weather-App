@@ -7,7 +7,7 @@ A simple and elegant weather application built using **HTML**, **CSS**, and **Va
 ## ✨ Features
 
 - 🔍 Search weather by **city name**
-- 🌄 Dynamic **background** changes 
+- 🌄 Dynamic **background**  
 - 🖼 Weather **icons** using animated GIFs
 - 💡 **Smart weather tips** (e.g., carry an umbrella, wear sunglasses)
 - 📱 Fully **responsive design** for all screen sizes
