@@ -1,60 +1,53 @@
-🌤 Weather App
+# 🌤 Weather App
 
-A simple weather application built with HTML, CSS, and JavaScript that shows real-time weather using the Weatherstack API.
+A simple and elegant weather application built using **HTML**, **CSS**, and **Vanilla JavaScript** that displays real-time weather information powered by the **Weatherstack API**.
 
-✨ Features
+---
 
-🔍 Search weather by city name
+## ✨ Features
 
-🌄 Dynamic background 
+- 🔍 Search weather by **city name**
+- 🌄 Dynamic **background** changes 
+- 🖼 Weather **icons** using animated GIFs
+- 💡 **Smart weather tips** (e.g., carry an umbrella, wear sunglasses)
+- 📱 Fully **responsive design** for all screen sizes
 
-🖼 Weather icons using animated GIFs
+---
 
-💡 Smart weather tips (carry umbrella, sunglasses, etc.)
+## 📸 Preview
 
-📱 Clean and responsive UI
+![Weather App Screenshot](assets/screenshot.png)  
 
-🚀 Demo
+---
 
-(Add GitHub Pages link or Screenshot here)
+## 🛠️ Tech Stack
 
-🛠 Tech Stack
+- **HTML5**
+- **CSS3**
+- **Vanilla JavaScript**
+- **Weatherstack API**
 
-HTML5
+---
 
-CSS3
+## 🔧 Installation & Setup
 
-Vanilla JavaScript
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Subhasis495/Weather-App.git
+   cd weather-app
+2. **Get a free API key from Weatherstack**
 
-Weatherstack API
+3. **Configure your key**
 
-🔧 Installation & Setup
-
-Clone the repo
-
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
-
-Get your free API Key from Weatherstack
-
-Open script.js and replace:
+4. **Open script.js and replace:**
 
 const accessKey = "YOUR_ACCESS_KEY";
 
-➔ with your actual key.
+➤ with your actual API key.
 
 Run the App
 
-Open index.html in your browser.
+---
 
-⚠ Important Notes
-
-Never upload your real API key to public repositories.
-
-Keep the placeholder or use .env in production projects.
-
-📄 License
-
-Free to use for personal & educational projects.
-
-🔥 Made with ❤️ by Subhasis Dhara
+### 📄 License
+This project is free to use for personal and educational purposes.
